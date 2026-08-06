@@ -1,0 +1,50 @@
+{
+  "users": {
+    "admin": {
+      "pass": "123",
+      "role": "Admin"
+    },
+    "student": {
+      "pass": "123",
+      "role": "Student"
+    },
+    "rajesh": {
+      "pass": "123",
+      "role": "Student"
+    }
+  },
+  "resources": [
+    [
+      "PDFs",
+      "CMM-245D5A6601",
+      "file",
+      "C:/Users/KONETI RAJESH/Downloads/CMM-245D5A6601.pdf",
+      "admin",
+      "2026-08-05 19:38:41.683361"
+    ],
+    [
+      "PDFs",
+      "main_resume",
+      "file",
+      "C:/Users/KONETI RAJESH/Downloads/main_resume.pdf",
+      "admin",
+      "2026-08-05 19:39:12.436730"
+    ],
+    [
+      "PDFs",
+      "How-Volunteering-can-change-your-life (2)",
+      "file",
+      "C:/Users/KONETI RAJESH/Downloads/How-Volunteering-can-change-your-life (2).pdf",
+      "admin",
+      "2026-08-05 19:39:46.371013"
+    ],
+    [
+      "PDFs",
+      "main_resume",
+      "file",
+      "C:/Users/KONETI RAJESH/Downloads/main_resume.pdf",
+      "student",
+      "2026-08-05 20:34:31.523046"
+    ]
+  ]
+}
